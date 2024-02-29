@@ -30,3 +30,4 @@ c:\Users\engma\OneDrive\Desktop\minimalApi\TodoApi\obj\Debug\net8.0\refint\TodoA
 c:\Users\engma\OneDrive\Desktop\minimalApi\TodoApi\obj\Debug\net8.0\TodoApi.pdb
 c:\Users\engma\OneDrive\Desktop\minimalApi\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 c:\Users\engma\OneDrive\Desktop\minimalApi\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+c:\Users\engma\OneDrive\Desktop\minimalApi\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
